@@ -1,0 +1,10 @@
+Project 2 : Instra Shohor  ( Requirments)
+1.	❤️ React কাজ করছে না 
+2.	 User  এর  Profile Photo ও Name দেখাচ্ছে না
+3.	 Post এর Description  30 Character এর বেশী হলে  Read More দেখাবে  
+4.	যিনি কমেন্ট করেছেন তার নাম ও কমেন্ট দেখাবে
+5.	Reported Post এ সবগুলো পোষ্ট দেখাচ্ছে এই সমস্যার সমাধান করতে হবে
+6.	প্রতিবার Reported Posts ও React Posts এ যাওয়ার পরে পোষ্ট  Double হয়ে যাচ্ছে এটা ঠিক করতে হবে 
+Check 
+Live Site [with bugs]  - https://instra-shohor-bugs.netlify.app/  
+Live Site [without bugs] - https://instra-shohor-js-project.netlify.app/
